@@ -1,0 +1,25 @@
+{
+  "name": "csv2array",
+  "version": "1.0.0",
+  "description": "CSV to ARRAY",
+  "main": "dist/csv2array.js",
+  "scripts": {
+    "test": "test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/zinkyawkyaw/csv2array.git"
+  },
+  "keywords": [
+    "csv to array",
+    "csv",
+    "array",
+    "excel to array"
+  ],
+  "author": "Zin Kyaw Kyaw (AJ)",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/zinkyawkyaw/csv2array/issues"
+  },
+  "homepage": "https://github.com/zinkyawkyaw/csv2array#readme"
+}
