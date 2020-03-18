@@ -1,3 +1,3 @@
 ### CSV to ARRRAY
 
-`npm install csv2array --save`
+`npm install @necessarylion/csv2array --save`

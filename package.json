@@ -1,5 +1,5 @@
 {
-  "name": "csv2array",
+  "name": "@necessarylion/csv2array",
   "version": "1.0.0",
   "description": "CSV to ARRAY",
   "main": "dist/csv2array.js",
